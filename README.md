@@ -16,4 +16,4 @@ This ansible playbook is dynamic, which means you just need to add the web-serve
 - Clone this repo.
 - cd to the location where you've cloned the repo.
 - Add the web-server IPs in the inventory file of ansible.
-- Run the command - "ansible-playbook load-balancer.yml"
+- Run the command - "ansible-playbook load-balancer.yml".
