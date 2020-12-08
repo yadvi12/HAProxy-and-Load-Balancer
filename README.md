@@ -8,6 +8,8 @@ BACKEND SERVER --> all the webservers
 
 This ansible playbook is dynamic, which means you just need to add the web-server IPs in the inventory file and ansible will automatically configure everything.
 
+![](Capture.PNG)
+
 ### How to run the playbook?
 
 - Clone this repo.
